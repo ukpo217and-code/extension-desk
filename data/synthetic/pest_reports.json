@@ -1,0 +1,63 @@
+[
+  {
+    "report_id": "PR-001",
+    "cluster_id": "C-FELELE",
+    "date": "2026-10-08",
+    "pest": "fall armyworm",
+    "crops": [
+      "maize"
+    ],
+    "severity": "moderate",
+    "source": "officer_visit",
+    "verified": true
+  },
+  {
+    "report_id": "PR-002",
+    "cluster_id": "C-FELELE",
+    "date": "2026-10-10",
+    "pest": "fall armyworm",
+    "crops": [
+      "maize"
+    ],
+    "severity": "high",
+    "source": "farmer_whatsapp",
+    "verified": false
+  },
+  {
+    "report_id": "PR-003",
+    "cluster_id": "C-ADANKOLO",
+    "date": "2026-10-05",
+    "pest": "stem borer",
+    "crops": [
+      "rice"
+    ],
+    "severity": "low",
+    "source": "whatsapp_group_forward",
+    "verified": false
+  },
+  {
+    "report_id": "PR-004",
+    "cluster_id": "C-KOTON",
+    "date": "2026-09-27",
+    "pest": "fall armyworm",
+    "crops": [
+      "maize"
+    ],
+    "severity": "low",
+    "source": "officer_visit",
+    "verified": true
+  },
+  {
+    "report_id": "PR-005",
+    "cluster_id": null,
+    "date": "2026-10-11",
+    "pest": "unknown caterpillar",
+    "crops": [
+      "maize"
+    ],
+    "severity": "unknown",
+    "source": "whatsapp_group_forward",
+    "verified": false,
+    "note": "location unclear"
+  }
+]
