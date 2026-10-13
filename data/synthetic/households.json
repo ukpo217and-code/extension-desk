@@ -1,0 +1,101 @@
+[
+  {
+    "household_id": "HH-001",
+    "cluster_id": "C-FELELE",
+    "cluster_name": "Felele maize collective (synthetic)",
+    "zone_id": "Z-LOK-A",
+    "crop": "maize",
+    "planting_date": "2026-09-02",
+    "plot_ha": 1.2,
+    "preferred_channel": "SMS",
+    "synthetic": true
+  },
+  {
+    "household_id": "HH-002",
+    "cluster_id": "C-FELELE",
+    "cluster_name": "Felele maize collective (synthetic)",
+    "zone_id": "Z-LOK-A",
+    "crop": "maize",
+    "planting_date": "2026-08-25",
+    "plot_ha": 0.8,
+    "preferred_channel": "USSD",
+    "synthetic": true
+  },
+  {
+    "household_id": "HH-003",
+    "cluster_id": "C-FELELE",
+    "cluster_name": "Felele maize collective (synthetic)",
+    "zone_id": "Z-LOK-A",
+    "crop": "maize",
+    "planting_date": "2026-09-25",
+    "plot_ha": 1.5,
+    "preferred_channel": "SMS",
+    "synthetic": true
+  },
+  {
+    "household_id": "HH-004",
+    "cluster_id": "C-ADANKOLO",
+    "cluster_name": "Adankolo rice group (synthetic)",
+    "zone_id": "Z-LOK-A",
+    "crop": "rice",
+    "planting_date": "2026-08-20",
+    "plot_ha": 1.0,
+    "preferred_channel": "visit",
+    "synthetic": true
+  },
+  {
+    "household_id": "HH-005",
+    "cluster_id": "C-ADANKOLO",
+    "cluster_name": "Adankolo rice group (synthetic)",
+    "zone_id": "Z-LOK-A",
+    "crop": "rice",
+    "planting_date": "2026-08-01",
+    "plot_ha": 2.0,
+    "preferred_channel": "SMS",
+    "synthetic": true
+  },
+  {
+    "household_id": "HH-006",
+    "cluster_id": "C-ADANKOLO",
+    "cluster_name": "Adankolo rice group (synthetic)",
+    "zone_id": "Z-LOK-A",
+    "crop": "rice",
+    "planting_date": "2026-09-10",
+    "plot_ha": 0.6,
+    "preferred_channel": "USSD",
+    "synthetic": true
+  },
+  {
+    "household_id": "HH-007",
+    "cluster_id": "C-KOTON",
+    "cluster_name": "Koton-Karfe mixed farmers (synthetic)",
+    "zone_id": "Z-LOK-B",
+    "crop": "maize",
+    "planting_date": "2026-09-05",
+    "plot_ha": 1.1,
+    "preferred_channel": "SMS",
+    "synthetic": true
+  },
+  {
+    "household_id": "HH-008",
+    "cluster_id": "C-KOTON",
+    "cluster_name": "Koton-Karfe mixed farmers (synthetic)",
+    "zone_id": "Z-LOK-B",
+    "crop": "rice",
+    "planting_date": "2026-08-15",
+    "plot_ha": 0.9,
+    "preferred_channel": "visit",
+    "synthetic": true
+  },
+  {
+    "household_id": "HH-009",
+    "cluster_id": "C-KOTON",
+    "cluster_name": "Koton-Karfe mixed farmers (synthetic)",
+    "zone_id": "Z-LOK-B",
+    "crop": "maize",
+    "planting_date": "2026-09-28",
+    "plot_ha": 1.3,
+    "preferred_channel": "USSD",
+    "synthetic": true
+  }
+]
